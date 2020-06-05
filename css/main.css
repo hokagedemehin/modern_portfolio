@@ -100,7 +100,7 @@
 .menu-branding .potrait {
   width: 280px;
   height: 280px;
-  background: url("../dist/img/passport41.jpg");
+  background: url("../img/passport41.jpg");
   border-radius: 50%;
   border: solid 3px #eece1a;
 }
@@ -173,7 +173,7 @@ body {
 }
 
 body#bg-img {
-  background: url(../dist/img/background.jpg);
+  background: url(../img/background.jpg);
   background-attachment: fixed;
   background-size: cover;
 }
@@ -430,7 +430,7 @@ main#home h1 {
             transform: translate3d(100%, 0, 0);
   }
   .menu-branding .potrait {
-    background: url("../dist/img/passport41s.jpg");
+    background: url("../img/passport41s.jpg");
     width: 140px;
     height: 140px;
   }
